@@ -39,7 +39,6 @@ collisionbox = {-3,-1.0,-3,3,3,3},
 	fly = true,
 	drops = {
 		{name = "default:mese_crystal", chance = 1, min = 1, max = 3},
-
 	},
 	water_damage = 1,
 	lava_damage = 0,
